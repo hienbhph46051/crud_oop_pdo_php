@@ -1,0 +1,10 @@
+
+t	php:S14818"-Remove this unused "$product" local variable.(öÔà¸üÿÿÿÿ8ÿ×ìµú1J$9883a161-ad3f-40e4-8469-ec82d93e01cd
+p	php:S1481".Remove this unused "$products" local variable.(º¡ÈÒ8ÿ×ìµú1J$35780290-22d2-4461-b399-4ed386f63a6b
+m	php:S2003"&Replace "include" with "include_once".(ßÍö ùÿÿÿÿ8€Øìµú1J$6c2c55c7-6b2d-49c0-a11d-4cc2bfdb9ce5
+h	php:S20039"&Replace "include" with "include_once".(ÜÒº÷8€Øìµú1J$4dec021f-438b-402d-b2fa-8df8c8373c82
+“	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(ÄüÑ•8€Øìµú1J$1933f2ca-0cac-4c08-a34d-ac1f8fdf1988
+“	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(ßÍö ùÿÿÿÿ8Øìµú1J$e2dbefb0-856b-4a5f-984a-0203527d417f
+“	php:S4833"QReplace "include_once" with namespace import mechanism through the "use" keyword.(ùÃ¾ğ8Øìµú1J$03e9a38c-e1d7-42c5-a766-4655bcd0141d
+	php:S48339"LReplace "include" with namespace import mechanism through the "use" keyword.(ÜÒº÷8Øìµú1J$669d623b-f70e-42e6-904a-ff06f6756023
+˜	php:S4833N"QReplace "include_once" with namespace import mechanism through the "use" keyword.(ÀËùÅúÿÿÿÿ8Øìµú1J$76928efb-0438-4c38-8e83-3fd87c7a9844
